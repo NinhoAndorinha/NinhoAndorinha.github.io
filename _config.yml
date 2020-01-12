@@ -1,8 +1,9 @@
-name: Ninho da Andorinha
+title: Ninho da Andorinha
 description: Alimentando novas ninhadas de desenvolvedores.
 
 theme: jekyll-theme-cayman
 show_downloads: false
+lang: pt-BR
 
 gems:
   - jekyll-sitemap
