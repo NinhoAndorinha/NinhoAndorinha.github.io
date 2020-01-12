@@ -2,3 +2,11 @@ name: Ninho da Andorinha
 description: Alimentando novas ninhadas de desenvolvedores.
 
 theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-sitemap
+
+exclude:
+  - LICENSE.md
+  - README.md
+  - CNAME
