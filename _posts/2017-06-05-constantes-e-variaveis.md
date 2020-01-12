@@ -1,4 +1,8 @@
-# Constantes e Variáveis
+---
+categories: [drops]
+title: "Constantes e Variáveis"
+---
+
 Constantes e variáveis são formas de associar um nome a um valor, seja para armazenamento temporário, manipulação, operações, etc. São extremamente úteis para a programação e promovem um passo-a-passo no seu algoritmo.
 
 O maior cuidado que temos que ter com elas são os nomes escolhidos, pois eles garantem a legibilidade e compreensão posterior. Depois precisamos decidir qual utilizar: variável ou constante?

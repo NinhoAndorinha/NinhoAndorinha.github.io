@@ -1,7 +1,8 @@
 ---
-layout: post
-title: Comentários
+categories: [drops]
+title: "Comentários"
 ---
+
 Neste post vamos explorar um pouco sobre comentários.
 Eles são importantes para documentar o código, porém não exagere na quantidade, preze pela qualidade e necessidade. Quem for ler depois de você agradecerá. 😀
 
