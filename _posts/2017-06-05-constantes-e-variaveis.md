@@ -3,6 +3,7 @@ categories: [drops]
 title: "Constantes e Variáveis"
 ---
 
+# Constantes e Variáveis
 Constantes e variáveis são formas de associar um nome a um valor, seja para armazenamento temporário, manipulação, operações, etc. São extremamente úteis para a programação e promovem um passo-a-passo no seu algoritmo.
 
 O maior cuidado que temos que ter com elas são os nomes escolhidos, pois eles garantem a legibilidade e compreensão posterior. Depois precisamos decidir qual utilizar: variável ou constante?
@@ -35,6 +36,7 @@ numeroJogadores = 1
 Agora que conhecemos as diferenças básicas entre constantes e variáveis[^fn-ponteiros] podemos tomar uma decisão melhor quando for utilizá-las. Sempre que souber que um valor atribuído não será alterado, use uma constante. Via de regra, devido às otimizações de performance, erre para o lado da constante, melhor futuramente perceber que vamos precisar de uma variável e alterar do que lembrar de voltar atrás e usar a constante.
 
 Até a próxima!
+
 \>}
 
 [^fn-tipos]: Como a Swift é uma linguagem [fortemente tipada](https://pt.wikipedia.org/wiki/Linguagem_tipada), uma vez que uma variável tem um tipo de valor definido todos os valores atribuídos posteriormente precisão ser do mesmo tipo.

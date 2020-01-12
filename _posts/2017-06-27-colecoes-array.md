@@ -3,6 +3,7 @@ categories: [drops]
 title: "Coleções: Array"
 ---
 
+# Coleções: Array
 A Swift possui três tipos básicos de coleções: _Array_[^fn-array],  _Dictionary_[^fn-dictionary] e _Set_[^fn-set]. Cada qual com funcionamento e aplicação específica porém todos são [fortemente tipados][wiki-ft] e armazenam uma **coleção** de valores.
 
 O _Array_ -- também conhecido como [Arranjo ou Vetor][wiki-array] -- consiste em uma lista ordenada de valores do mesmo tipo, que podem ser acessados através de um índice.
@@ -78,6 +79,7 @@ for (indice, numero) in numerosFibonacci.enumerated() {
 Não deixe de se aprofundar ainda mais lendo a [documentação oficial][doc-array].
 
 Até a próxima!
+
 \>}
 
 [wiki-array]: https://pt.wikipedia.org/wiki/Arranjo_(computa%C3%A7%C3%A3o)

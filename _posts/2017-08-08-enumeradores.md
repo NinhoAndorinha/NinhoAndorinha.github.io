@@ -3,6 +3,7 @@ categories: [drops]
 title: "Enumeradores"
 ---
 
+# Enumeradores
 _Enums_ definem um tipo comum para um grupo de valores relacionados e nos permitem utilizá-los de maneira segura no nosso código. Como são tipos definidos, o compilador irá nos apontar caso ocorra algum problema no momento de compilação.
 
 As enumerações em Swift são muito flexíveis, não é necessário agregar um valor mas caso tenha um valor agregado pode ser string, caracter ou inteiros e pontos flutuantes. Também podemos associar um valor aos _casos_ enumerados, ele será armazenado juntamente com o _caso_ podendo ser extraído para uso quando necessário.
@@ -153,6 +154,7 @@ if case .qrCode(let codigo) = produto {
 Como sempre não deixe de conferir a [documentação oficial][doc-enum] para mais informações e exemplos.
 
 Até a próxima!
+
 \>}
 
 [doc-enum]: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html

@@ -3,6 +3,7 @@ categories: [drops]
 title: "Coleções: Dictionary"
 ---
 
+# Coleções: Dictionary
 O Dicionário -- conhecido também como [vetor associativo][wiki-dictionary] -- é um tipo de coleção que contém pares chave---valor. Não possui ordenação e cada chave acessa o valor diretamente associado a ela.
 
 Tanto _chave_ quanto _valor_ tem seus tipos definidos no momento da criação do dicionário.
@@ -101,6 +102,7 @@ for nome in numerosChamada.values {
 Não deixe de se aprofundar ainda mais sobre dicionários lendo a [documentação oficial][doc-dictionary].
 
 Até a próxima!
+
 \>}
 
 [wiki-dictionary]: https://pt.wikipedia.org/wiki/Vetor_associativo

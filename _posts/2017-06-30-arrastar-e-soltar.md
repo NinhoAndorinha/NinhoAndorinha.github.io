@@ -3,6 +3,7 @@ categories: [drops]
 title: "Drag & Drop"
 ---
 
+# Drag & Drop
 Vamos dar uma olhada rápida no funcionamento do _Drag & Drop_ -- Arrastar e Soltar.
 Essa _API_ é bem interessante e completa, por isso não deixe de conferir a [documentação oficial][doc-dragndrop] para todos os detalhes de seu funcionamento e [essa palestra][link-wwdc] da **#WWDC17**.
 
@@ -107,6 +108,7 @@ extension ViewController: UIDropInteractionDelegate {
 Veja o projeto completo no [GitHub][github].
 
 Até a próxima!
+
 \>}
 
 [doc-dragndrop]: https://developer.apple.com/documentation/uikit/drag_and_drop

@@ -3,6 +3,7 @@ categories: [drops]
 title: "Calendar e DateComponents"
 ---
 
+# Calendar e DateComponents
 Não é incomum precisarmos realizar cálculos utilizando datas ou informações de um calendário, extraindo componentes como: dia, mês, ano e etc. Felizmente isso é possível utilizando [Calendar][doc-calendar] em conjunto com [DateComponents][doc-datecomponents].
 
 A estrutura [Calendar][doc-calendar] nos fornece uma relação entre um calendário específico e um ponto absoluto no tempo (`Date`). Ela também nos fornece recursos para realizarmos cálculos, extrair componentes e outras funcionalidades a partir dessa relação.
@@ -97,6 +98,7 @@ Trabalhar com datas pode não ser tão difícil quando entendemos como estas est
 Não deixe de ler a documentação oficial de [`Calendar`][doc-calendar] e [`DateComponents`][doc-datecomponents] para complementar ainda mais este conteúdo.
 
 Até a próxima 🍻
+
 \>}
 
 [doc-calendar]: https://developer.apple.com/documentation/foundation/calendar

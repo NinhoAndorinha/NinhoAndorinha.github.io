@@ -3,6 +3,7 @@ categories: [drops]
 title: "Comentários"
 ---
 
+# Comentários
 Neste post vamos explorar um pouco sobre comentários.
 Eles são importantes para documentar o código, porém não exagere na quantidade, preze pela qualidade e necessidade. Quem for ler depois de você agradecerá. 😀
 
@@ -66,6 +67,7 @@ func saudacao(nome: String) -> String {
 Agora que já conhece todas as vantagens dos comentários é hora de colocá-los em prática, mas lembre-se: não exagere, comentários em excesso também podem ser um problema pois afetam a legibilidade do seu código.
 
 Até a próxima!
+
 \>}
 
 [^fn-popup-doc]: Para acessar o balão de documentação basta segurar a tecla option (<kbd>&#8997;</kbd>) e clicar no método ou classe que deseja ver a documentação.

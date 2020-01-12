@@ -3,6 +3,7 @@ categories: [drops]
 title: "Alertas com UIAlertController"
 ---
 
+# Alertas com UIAlertController
 Existem diversas formas de alertar o usuário em um aplicativo iOS. Seja para comunicar um acontecimento, exibir um erro, obter uma informação ou decisão, etc. Muitas vezes a melhor -- e mais simples -- é utilizando o `UIAlertController`.
 
 O `UIAlertController` herda de `UIViewController` e **não** foi projetado para ser usado como subclasse, por isso sempre o utilize diretamente. Seu objetivo é exibir uma mensagem de alerta e dar ao usuário uma maneira de respondê-la. Está disponível a partir do iOS 8, onde veio para substituir o `UIAlertView` e o `UIActionSheet`, que ficaram obsoletos a partir desta versão.
@@ -65,6 +66,7 @@ present(alerta, animated: true, completion: nil)
 Não deixe de consultar sempre a [documentação oficial][doc-alert] para ver todas as propriedades e métodos e explorar ainda mais possibilidades do `UIAlertController`.
 
 Até a próxima!
+
 \>}
 
 [doc-present]: https://developer.apple.com/documentation/uikit/uiviewcontroller/1621380-present

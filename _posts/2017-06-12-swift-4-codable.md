@@ -3,6 +3,7 @@ categories: [drops]
 title: "Swift 4: Codable"
 ---
 
+# Swift 4: Codable
 Uma das novidades do Swift 4 foi a introdução do [arquivamento e serialização][swift-evo] de tipos nativos, com isso podemos salvar nossos tipos criados na Swift com `NSCoding` por exemplo. Porém a melhor parte é que também podemos utilizar o `NSPropertyListSerialization` e o `NSJSONSerialization` para transformar em **Property List** e **JSON** respectivamente.
 
 Suponha que nosso modelo de dados é uma `struct` que representa uma temperatura, composta por valor e escala:
@@ -183,6 +184,7 @@ let jsonDecoded = try jsonDecoder.decode([Temperatura].self, from: jsonData)
 ou faça o [download do Playground][play].
 
 Até a próxima!
+
 \>}
 
 [swift-evo]: https://github.com/apple/swift-evolution/blob/master/proposals/0166-swift-archival-serialization.md

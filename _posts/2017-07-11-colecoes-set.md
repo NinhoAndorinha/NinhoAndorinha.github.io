@@ -3,6 +3,7 @@ categories: [drops]
 title: "Coleções: Set"
 ---
 
+# Coleções: Set
 O tipo _Set_ -- conhecido na ciência da computação como [Conjunto][wiki-set] -- consiste em uma lista de valores do mesmo tipo que não possuem ordenação e que não se repetem.
 
 Isso significa que ao adicionarmos dois valores iguais em uma variável do tipo Set, apenas um entrará na coleção. O tipo _Set_ aceita apenas elementos que conformam com o protocolo [`Hashable`][doc-hashable] -- para que possa ser feita a comparação de igualdade.
@@ -80,6 +81,7 @@ idades.isSuperset(of: 1...100)
 Não deixe de se aprofundar ainda mais lendo a [documentação oficial][doc-set].
 
 Até a próxima!
+
 \>}
 
 [wiki-set]: https://pt.wikipedia.org/wiki/Conjunto_(tipo_de_dado_abstrato)

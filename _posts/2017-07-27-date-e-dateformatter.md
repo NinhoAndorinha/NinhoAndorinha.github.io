@@ -3,6 +3,7 @@ categories: [drops]
 title: "Date e DateFormatter"
 ---
 
+# Date e DateFormatter
 Seja para cadastrarmos a data do nosso aniversário ou o vencimento do cartão, é quase certo que em algum momento sua aplicação irá  trabalhar com datas. Para tal tarefa o Foundation possui [`Date`][doc-date] e [`DateFormatter`][doc-dateformatter] que são aliados poderosos para criação e formatação de datas.
 
 [`Date`][doc-date] representa um ponto no tempo, independente de calendário ou fuso horário. É uma ponte para a [`NSDate`][doc-nsdate] e representa o tempo transcorrido relativo a uma data considerada absoluta -- 1 de Janeiro de 2001 00:00:00 UTC. Sua inicialização pode receber um [`TimeInterval`][doc-timeinterval], que é um `typealias` para `Double`.
@@ -119,6 +120,7 @@ O [nsdateformatter.com][link-nsdf] é um ótimo auxílio para ver e testar os fo
 Trabalhar com datas não é tão difícil quando entendemos o que cada peça do quebra cabeça faz. Não deixe de consultar a documentação oficial de [Date][doc-date] e [DateFormatter][doc-dateformatter] caso tenha alguma dúvida.
 
 Até a próxima 😁
+
 \>}
 
 [doc-date]: https://developer.apple.com/documentation/foundation/date

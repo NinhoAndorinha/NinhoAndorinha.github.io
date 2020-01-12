@@ -3,6 +3,7 @@ categories: [drops]
 title: "Swift 4: Controle de Acesso"
 ---
 
+# Swift 4: Controle de Acesso
 Tivemos algumas mudanças em relação ao controle de acesso que podemos aplicar em nosso código. Vamos detalhar todos os níveis e o funcionamento de cada um para que você possa encontrar o que melhor se aplica ao seu caso.
 
 Procure sempre de utilizar o nível adequado – mesmo que não esteja trabalhando em uma biblioteca – assim o compilador poderá fazer [alguns ajustes][dyndis] e melhorar a performance do seu código.
@@ -55,6 +56,7 @@ Caso esteja escrevendo uma biblioteca prefira `public` na sua interface, a menos
 Com isso em mente, não deixe de ajustar os níveis de acesso de acordo com a necessidade de seu código.
 
 Até a próxima!
+
 \>}
 
 [dyndis]: https://developer.apple.com/swift/blog/?id=27
