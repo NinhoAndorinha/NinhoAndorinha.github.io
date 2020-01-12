@@ -1,7 +1,8 @@
 ---
-title: Drops
 layout: page
+title: Drops
 ---
+
 ## 2017
 
 ### Julho
